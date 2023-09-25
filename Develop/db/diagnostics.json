@@ -34,5 +34,23 @@
             "topic": "test",
             "username": "test"
         }
+    },
+    {
+        "time": 1695659486727,
+        "error_id": "1f473fa6-dabb-4bb6-a288-ad9af43e6d69",
+        "errors": {
+            "username": "Invalid username!",
+            "tip": "Tip must be at least 15 characters",
+            "topic": ""
+        }
+    },
+    {
+        "time": 1695659494129,
+        "error_id": "72227968-288f-491a-97a7-4ff67485d0dc",
+        "errors": {
+            "username": "Invalid username!",
+            "tip": "Tip must be at least 15 characters",
+            "topic": ""
+        }
     }
 ]
